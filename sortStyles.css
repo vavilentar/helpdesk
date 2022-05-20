@@ -1,0 +1,39 @@
+.sorting {
+	display: none;
+	height: 100vw;
+	background-color:rgb(159, 201, 153);
+}
+
+.ticket-sidebar-filter{
+	display: flex;
+	justify-content: space-between;
+	padding: 0 15px 0 0;
+	margin: 10px 0;
+}
+
+.ticket-sidebar-filter a{
+	color: black;
+}
+
+i {
+	width: 40px;
+	text-align: center;
+}
+.sort-active{
+	display: block;
+}
+
+.tickets {
+	display: none;
+	padding: 5px;
+}
+
+.tickets-sorted {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.filter-link-active{
+	text-decoration: underline;
+	color: white;
+}

@@ -1,0 +1,12 @@
+.menus {
+	display: none;
+	background-color: rgb(165, 194, 122);
+	height: 100vw;
+}
+
+.menu-active {
+	display: block;
+}
+.knowledge-menu {
+	width: 100%;
+}
